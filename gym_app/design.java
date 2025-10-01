@@ -17,7 +17,7 @@ public class design extends JFrame {
     private JButton btnAdd, btnRemove, btnCheck, btnUpdate, btnExport;
 
     public design() {
-        super("Quản Lý Lớp Học");
+        super("Quản Lý Gym");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800, 500);
         setLocationRelativeTo(null);
